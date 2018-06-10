@@ -16,7 +16,6 @@ setup(
     keywords = ['notifications', 'macos'],
     classifiers = [
         'Operating System :: MacOS :: MacOS X',
-        'Programming Language :: Python',
+        'Programming Language :: Python :: 3',
     ],
-
 )
