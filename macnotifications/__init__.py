@@ -1,3 +1,5 @@
+name = "macnotifications"
+
 def notify(title='', subtitle='', message='', sound=None):
     """
     Function used to send notification.
