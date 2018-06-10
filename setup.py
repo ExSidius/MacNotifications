@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 setup(
     name = 'macnotifications',
     packages = ['macnotifications'],
-    version = '0.1',
+    version = '0.4',
     description = 'MacOS Notifications from within Python.',
     long_description=long_description,
     author = 'Mukul Ram',
