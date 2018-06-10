@@ -19,5 +19,5 @@ The following example ought to be helpful -
 ```python
 from macnotifications import notify
 
-notify(title='Bananas', subtitle='Yellow', message='Great Source of Pottasium')
+notify(title='Bananas', subtitle='Yellow', message='Great Source of Potassium')
 ```
